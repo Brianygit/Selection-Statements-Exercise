@@ -9,13 +9,13 @@
             int userInput = int.Parse(Console.ReadLine());
             if (userInput < favNumber)
                 {
-                Console.WriteLine("You entered an incorrect input. Higher!");
+                Console.WriteLine("You entered an incorrect number. Higher!");
                 }
             else if (userInput > favNumber)
             {
-                Console.WriteLine("You entered an incorrect input. Lower!");
+                Console.WriteLine("You entered an incorrect number. Lower!");
             }
-            else (userInput == favNumber)
+            else 
                 
             {
                 Console.WriteLine("You guessed this number!");

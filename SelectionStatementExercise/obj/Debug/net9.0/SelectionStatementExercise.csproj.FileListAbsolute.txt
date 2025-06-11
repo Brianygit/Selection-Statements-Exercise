@@ -21,3 +21,10 @@ C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionSta
 C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net9.0\SelectionStatementExercise.dll
 C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net9.0\refint\SelectionStatementExercise.dll
 C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net9.0\SelectionStatementExercise.pdb
+C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net9.0\SelectionStatementExercise.exe
+C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net9.0\SelectionStatementExercise.deps.json
+C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net9.0\SelectionStatementExercise.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net9.0\SelectionStatementExercise.dll
+C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net9.0\SelectionStatementExercise.pdb
+C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net9.0\SelectionStatementExercise.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net9.0\ref\SelectionStatementExercise.dll
